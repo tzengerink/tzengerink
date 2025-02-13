@@ -1,8 +1,8 @@
 ![CyberPeaks Banner](https://raw.githubusercontent.com/tzengerink/tzengerink/main/banner.png)
 
-# Hi, I'm Teun 👋👨‍💻
+# Hi, I'm Teun 👋👨💻
 
-Software engineer with multiple years of professional experience in different environments. Passionate about developing creative solutions that have an impact on its users and society. Motivated to guide organisations in implementing Agile/Scrum practices, mentor junior developers and improve engineering processes. Admired by peers for being reliable, critical, authentic, outspoken, opinionated and emphatic.
+Experienced software engineer with many years of professional development in a variety of environments. Passionate about creating innovative solutions that make a meaningful impact on users and society. Driven to guide organizations in implementing Agile/Scrum practices, mentoring junior developers, and improving engineering processes. Respected by peers for being reliable, critical, authentic, outspoken, opinionated, and empathetic.
 
 ## Find me around the web 🌍
 
