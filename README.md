@@ -2,7 +2,7 @@
 
 # Hi, I'm Teun 👋👨💻
 
-Experienced software engineer with many years of professional development in a variety of environments. Passionate about creating innovative solutions that make a meaningful impact on users and society. Driven to guide organizations in implementing Agile/Scrum practices, mentoring junior developers, and improving engineering processes. Respected by peers for being reliable, critical, authentic, outspoken, opinionated, and empathetic.
+An experienced software engineer with extensive professional development across diverse environments. Valuing self-development, creativity, and sustainability, always open to change and active learning. Original ideas and innovation are admired, and approaches that combine long-term vision with progress to enhance social impact are chosen. Passionate about guiding organizations in implementing Agile/Scrum practices, mentoring junior developers, and improving engineering processes. Known by peers and colleagues for being reliable, critical, authentic, outspoken, opinionated, and empathetic.
 
 ## Find me around the web 🌍
 
