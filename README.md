@@ -1,6 +1,6 @@
 # Hi, I'm Teun 👋👨💻
 
-An experienced software engineer with extensive professional development across diverse environments. Valuing self-development, creativity, and sustainability, always open to change and active learning. Original ideas and innovation are admired, and approaches that combine long-term vision with progress to enhance social impact are chosen. Passionate about guiding organizations in implementing Agile/Scrum practices, mentoring junior developers, and improving engineering processes. Known by peers and colleagues for being reliable, critical, authentic, outspoken, opinionated, and empathetic.
+Senior developer with broad experience in a variety of complex environments. Combines technical depth with an eye for design and enjoys working on products where user experience and craftsmanship come together. Strong in TypeScript, React, and Next.js, with a focus on quality, maintainability, and clear collaboration. Brings structure to teams, improves engineering processes, and helps colleagues grow. Enjoys building sustainable solutions with attention to the user, the team, and the long term. Described by colleagues as reliable, critical, authentic, outspoken, unconventional, and empathetic.
 
 ## Find me around the web 🌍
 
